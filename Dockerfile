@@ -1,4 +1,4 @@
-FROM alpine
+FROM frolvlad/alpine-bash
 
 MAINTAINER Anas Ameziane <anasdox@gmail.com>
 
